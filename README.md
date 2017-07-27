@@ -3,7 +3,7 @@
 ![Book Cover](http://eloquentjavascript.net/img/cover.png)
 
 # Checklist :
-- [x] Values, Types, and Operators
+- [x] Program Structure
 - [x] Functions
 - [ ] Data Structures: Objects and Arrays
 - [ ] Higher-Order Functions
